@@ -1,8 +1,8 @@
 team: Tigers
 
-manager: Brenda
+manager: Thanos
 
-coach: Ruth
+coach: Ronan
 
 members:
 - Linda
@@ -12,7 +12,11 @@ members:
 - Tyler
 - Kim
 - Park
+- Gamora
+- Nebula
 
 fetch this
 By SSH
 signed : Nop
+new branch
+cam alias test
